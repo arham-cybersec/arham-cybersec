@@ -54,8 +54,9 @@ Decision branches, input handling, game logic.
 CLI tool for updating and maintaining allowlists in a cleaner, repeatable way.  
 🔗 https://github.com/arham-cybersec/ip-allowlist-maintainer
 
-**3. Coming Soon**  
-Reserved for my next security/automation project, which I’ll build publicly.
+**3. DarkLedger CLI**  
+A simple Python banking simulator with credential prompts, balance management, withdrawals, deposits, and transaction history. Includes an ASCII signature reveal at exit.
+🔗 https://github.com/arham-cybersec/darkledger-cli
 
 ---
 
