@@ -38,7 +38,9 @@ I like clean systems, problem-solving, and designing automations that make proce
 ## Tech Stack
 
 **Languages:** Python, SQL  
+
 **Core Tools:** Linux, Git, Oracle DB, VSCODE
+
 **Interests:** Cybersecurity, Networking, Cloud, AI Automation  
 
 ---
